@@ -1,2 +1,2 @@
-# testNodeJs
-This is to integrate Jenkins, GIT and nodeJS
+# Coles Application - Playwright_Automation
+This is to automate coles application by selecting a product and checking out.
